@@ -3,7 +3,10 @@
 ### Project Overview
 
 Seasonal Agriculture Performance Analysis is a Data Analytics project focused on understanding how agricultural performance varies across different seasons.
+
 The main purpose of the project is to identify meaningful patterns, trends, relationships and variations in agricultural performance across different seasonal conditions.
+
+
 
 ### Problem Statement
 Agricultural activities are influenced by seasonal variations in environmental conditions,
